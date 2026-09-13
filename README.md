@@ -11,6 +11,19 @@
 
 ---
 
+### Hi, I'm Vamshi
+
+I'm a Data Engineer building batch and real-time data pipelines across Google Cloud, AWS, and Azure for enterprise analytics and customer data platforms. At American Express, I work on GCP-native ingestion feeding the Adobe Experience Platform, with a focus on BigQuery/Bigtable optimization, Airflow orchestration, and reliable delivery of large-scale customer data.
+
+**What I'm focused on**
+- Cloud data pipelines: batch and real-time ingestion across GCP, AWS, and Azure with Airflow, Dataflow, and PySpark
+- Data warehousing & optimization: BigQuery, Redshift, and Snowflake partitioning/clustering strategies for cost and query performance
+- Data quality & validation: schema validation, dbt tests, reconciliation, and fault-tolerant ingestion frameworks
+- Streaming systems: Kafka and Spark Streaming for near real-time event processing
+- GenAI-assisted engineering: using GitHub Copilot and LLM tooling to speed up pipeline development and debugging
+
+---
+
 ## 🔗 Connect With Me
 
 <table>
@@ -32,16 +45,6 @@
     </td>
     <td align="center">
       <a href="#" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="55" height="55" alt="Portfolio"/>
-      </a><br/>Portfolio
-    </td>
-    <td align="center">
-      <a href="https://www.kaggle.com/vamshikrishnar25" target="_blank">
-        <img src="https://cdn.simpleicons.org/kaggle" width="55" height="55" alt="Kaggle"/>
-      </a><br/>Kaggle
-    </td>
-    <td align="center">
-      <a href="#" target="_blank">
         <img src="https://cdn.simpleicons.org/adobeacrobatreader/FF0000" width="55" height="55" alt="Resume"/>
       </a><br/>Resume
     </td>
@@ -56,17 +59,15 @@
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="55" height="55"/><br/>Spark</td>
-    <td align="center"><img src="https://cdn.simpleicons.org/apachehive/FDEE21" width="55" height="55"/><br/>Hive</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="55" height="55"/><br/>Kafka</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="55" height="55"/><br/>Hadoop</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="55" height="55"/><br/>HDFS</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="55" height="55"/><br/>Airflow</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/dbt/FF694B" width="55" height="55"/><br/>dbt</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/apache/D22128" width="55" height="55"/><br/>Sqoop</td>
-    <td align="center"><img src="https://cdn.simpleicons.org/apache/D22128" width="55" height="55"/><br/>MapReduce</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="55" height="55"/><br/>Airflow</td>
-    <td align="center"><img src="https://cdn.simpleicons.org/apache/D22128" width="55" height="55"/><br/>Oozie</td>
-    <td align="center"><img src="https://cdn.simpleicons.org/apachenifi/728E9B" width="55" height="55"/><br/>NiFi</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/databricks/FF3621" width="55" height="55"/><br/>Databricks</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/apachehive/FDEE21" width="55" height="55"/><br/>Hive</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="55" height="55"/><br/>Hadoop</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/apacheflink/E6526F" width="55" height="55"/><br/>Flink</td>
   </tr>
 </table>
 
@@ -78,9 +79,6 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="55" height="55"/><br/>SQL</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="55" height="55"/><br/>Scala</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55"/><br/>Java</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55"/><br/>C++</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55"/><br/>HTML</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55"/><br/>CSS</td>
   </tr>
 </table>
 
@@ -98,10 +96,10 @@
 <table>
   <tr>
     <td align="center"><img src="https://cdn.simpleicons.org/githubcopilot" width="55" height="55"/><br/>Copilot</td>
-    <td align="center"><img src="https://cdn.simpleicons.org/openai" width="55" height="55"/><br/>OpenAI</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/openai/FFFFFF" width="55" height="55"/><br/>OpenAI</td>
     <td align="center"><img src="https://cdn.simpleicons.org/googlegemini" width="55" height="55"/><br/>Gemini</td>
     <td align="center"><img src="https://cdn.simpleicons.org/claude/A78BFA" width="55" height="55"/><br/>Claude</td>
-    <td align="center"><img src="https://cdn.simpleicons.org/groq" width="55" height="55"/><br/>Groq</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/groq/F55036" width="55" height="55"/><br/>Groq</td>
     <td align="center"><img src="https://cdn.simpleicons.org/ollama" width="55" height="55"/><br/>Ollama</td>
     <td align="center"><img src="https://cdn.simpleicons.org/perplexity" width="55" height="55"/><br/>Perplexity</td>
   </tr>
@@ -124,6 +122,8 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55"/><br/>AWS</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="55" height="55"/><br/>Azure</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55"/><br/>Docker</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="55" height="55"/><br/>Kubernetes</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="55" height="55"/><br/>Terraform</td>
   </tr>
 </table>
 
@@ -178,7 +178,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vamshikrishna25&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vamshikrishna25&theme=tokyo-night&hide_border=true&hide_title=false&custom_title=Contribution%20Graph" width="100%"/>
 </div>
 
 ---
@@ -192,23 +192,12 @@
 ---
 
 ```
-╔══════════════════════════════════════════════════════╗
-║                                                        ║
-║   ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄       ▄    ║
-║  ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌     ▐░▌   ║
-║  ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀▀▀ ▐░▌     ▐░▌   ║
-║  ▐░▌       ▐░▌▐░▌          ▐░▌          ▐░▌     ▐░▌   ║
-║  ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄▄▄ ▐░▌          ▐░▌     ▐░▌   ║
-║  ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌          ▐░▌     ▐░▌   ║
-║  ▐░█▀▀▀▀▀▀▀█░▌ ▀▀▀▀▀▀▀▀▀█░▌▐░▌          ▐░▌     ▐░▌   ║
-║  ▐░▌       ▐░▌          ▐░▌▐░▌          ▐░▌     ▐░▌   ║
-║  ▐░▌       ▐░▌ ▄▄▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▐░▌   ║
-║  ▐░▌       ▐░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░▌   ║
-║   ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀    ║
-║                                                        ║
-║        pipelines, scale, and one commit at a time     ║
-║                                                        ║
-╚══════════════════════════════════════════════════════╝
++--------------------------------------------------+
+|                                                    |
+|   STATUS: BUILDING                                |
+|   pipelines, scale, and one commit at a time      |
+|                                                    |
++--------------------------------------------------+
 ```
 
 ---
