@@ -167,10 +167,6 @@ I'm a Data Engineer building batch and real-time data pipelines across Google Cl
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vamshikrishna25&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" />
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamshikrishna25&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=c9d1d9" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vamshikrishna25&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
-
 </div>
 
 ---
@@ -188,17 +184,6 @@ I'm a Data Engineer building batch and real-time data pipelines across Google Cl
 *"Data is the new oil, but pipelines are the refineries that make it valuable."*
 
 </div>
-
----
-
-```
-+--------------------------------------------------+
-|                                                    |
-|   STATUS: BUILDING                                |
-|   pipelines, scale, and one commit at a time      |
-|                                                    |
-+--------------------------------------------------+
-```
 
 ---
 
