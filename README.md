@@ -13,14 +13,14 @@
 
 ### Hi, I'm Vamshi
 
-I'm a Data Engineer building batch and real-time data pipelines across Google Cloud, AWS, and Azure for enterprise analytics and customer data platforms. At American Express, I work on GCP-native ingestion feeding the Adobe Experience Platform, with a focus on BigQuery/Bigtable optimization, Airflow orchestration, and reliable delivery of large-scale customer data.
+I'm a Data Engineer with 6+ years building and owning enterprise data platforms across financial services and telecom, spanning GCP, Azure, and AWS. At American Express, I design BigQuery partitioning/clustering strategies and Pub/Sub-to-Dataflow-to-PySpark pipelines feeding the Adobe Experience Platform, and I've previously architected end-to-end Azure pipelines (ADF, Databricks, Synapse, ADLS Gen2) and CDC-based incremental dbt models that cut processing volume by 90%.
 
 **What I'm focused on**
-- Cloud data pipelines: batch and real-time ingestion across GCP, AWS, and Azure with Airflow, Dataflow, and PySpark
-- Data warehousing & optimization: BigQuery, Redshift, and Snowflake partitioning/clustering strategies for cost and query performance
-- Data quality & validation: schema validation, dbt tests, reconciliation, and fault-tolerant ingestion frameworks
-- Streaming systems: Kafka and Spark Streaming for near real-time event processing
-- GenAI-assisted engineering: using GitHub Copilot and LLM tooling to speed up pipeline development and debugging
+- Cloud data pipelines: batch and real-time ingestion across GCP, Azure, and AWS with Airflow, Dataflow, ADF, and PySpark
+- Data warehousing & optimization: BigQuery, Snowflake, and Redshift partitioning/clustering for cost and query performance
+- Dimensional modeling: star/snowflake schemas, SCD Type 1/2, surrogate keys, and lineage documentation for regulated reporting
+- Data quality & validation: dbt tests, CDC processing, and Python/PySpark checks that catch schema drift before it reaches consumers
+- CI/CD & DevOps: GitHub, Jenkins, Terraform, and Docker/Kubernetes across dev, QA, and production environments
 
 ---
 
