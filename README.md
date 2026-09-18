@@ -44,7 +44,7 @@ I'm a Data Engineer building batch and real-time data pipelines across Google Cl
       </a><br/>Email
     </td>
     <td align="center">
-      <a href="#" target="_blank">
+      <a href="https://github.com/Vamshikrishna25/Vamshikrishna25/blob/main/resume.pdf" target="_blank">
         <img src="https://cdn.simpleicons.org/adobeacrobatreader/FF0000" width="55" height="55" alt="Resume"/>
       </a><br/>Resume
     </td>
@@ -99,7 +99,6 @@ I'm a Data Engineer building batch and real-time data pipelines across Google Cl
     <td align="center"><img src="https://cdn.simpleicons.org/openai/FFFFFF" width="55" height="55"/><br/>OpenAI</td>
     <td align="center"><img src="https://cdn.simpleicons.org/googlegemini" width="55" height="55"/><br/>Gemini</td>
     <td align="center"><img src="https://cdn.simpleicons.org/claude/A78BFA" width="55" height="55"/><br/>Claude</td>
-    <td align="center"><img src="https://cdn.simpleicons.org/groq/F55036" width="55" height="55"/><br/>Groq</td>
     <td align="center"><img src="https://cdn.simpleicons.org/ollama" width="55" height="55"/><br/>Ollama</td>
     <td align="center"><img src="https://cdn.simpleicons.org/perplexity" width="55" height="55"/><br/>Perplexity</td>
   </tr>
